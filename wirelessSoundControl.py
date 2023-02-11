@@ -1,6 +1,5 @@
 import cv2
 import mediapipe as mp
-from sympy import re
 import math 
 import numpy as np
 
